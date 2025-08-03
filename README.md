@@ -20,7 +20,7 @@ This repository contains a machine learning model to predict customer churn. The
 
 - **Visualizations:** The notebook includes visualizations of model performance over epochs, such as loss and accuracy plots, to help understand the training process.
 
-## Methodology and Solutions
+## Methodology
 The core of the churn prediction solution is a multi-layer neural network, also known as a multi-layer perceptron (MLP). This network is structured to process the tabular customer data and classify customers as either churn or no-churn. The model typically consists of an input layer corresponding to the features of the customer data, one or more hidden layers with activation functions like ReLU to learn complex patterns, and an output layer with a sigmoid activation function to produce a binary classification probability. The use of a deep learning model allows for the discovery of non-linear relationships in the data that traditional models might miss, leading to more accurate predictions.
 
 ## Recommendations
